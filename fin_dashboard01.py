@@ -26,8 +26,8 @@ st.write("Data source: Yahoo Finance")
 
 # --- Insert an image ---
 
-#image = Image.open('./img/stock_market.jpg')
-#st.image(image, caption='Stock market')
+image = Image.open('stock_market.jpg')
+st.image(image, caption='Stock market')
 
 # --- Multiple choices box ---
 
